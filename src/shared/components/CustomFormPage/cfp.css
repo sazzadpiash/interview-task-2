@@ -1,0 +1,129 @@
+.custom-tab {
+    color: #ffffff !important;
+    font-weight: 600;
+    border-radius: 0 0 16px 16px;
+    background: linear-gradient(316.14deg, #6d00e6 1.84%, #9a00ff 96.25%) !important;
+    padding: 10px 25px;
+    display: inline-block;
+}
+
+.custom-tab svg {
+    margin-right: 10px;
+}
+
+.main-box {
+    height: 87vh;
+}
+
+.add-btn {
+    background: #ffffff;
+    color: #9a00ff;
+    font-weight: 500;
+    width: 160px;
+    border-radius: 45px;
+    margin-left: 2.4rem;
+    padding: 11px 25px;
+    display: flex;
+    justify-content: center;
+    border: 2px solid #9a00ff;
+    font-weight: 600;
+    align-items: center;
+}
+
+.btn-plus {
+    font-size: 25px;
+    margin-left: 5px;
+    font-weight: 300;
+}
+
+.form-title {
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.form-title-bar {
+    display: flex;
+    padding: 30px;
+}
+
+.modal-open {
+    display: block;
+}
+
+.modal-close {
+    display: none;
+}
+
+.modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px !important;
+}
+
+.table-box {
+    padding: 0px 30px;
+}
+
+.delete-modal {
+    width: 500px;
+    background: #d5cccc;
+    text-align: center;
+    padding: 35px;
+    border-radius: 10px;
+    position: absolute;
+    top: 40%;
+    left: 38%;
+}
+
+.delete-modal .btn-outline-danger {
+    margin-right: 20px;
+}
+
+.create-form-modal {
+    background: #e8e8e8;
+    position: absolute;
+    width: 85%;
+    top: 10%;
+    left: 8%;
+    min-height: 78vh;
+    z-index: 1000000;
+    padding: 25px;
+}
+
+.cross-btn {
+    background: none;
+    border: none;
+}
+
+#companyForm {
+    display: block;
+    width: 100%;
+    margin: 10px 0px;
+    padding: 5px 15px;
+    border: 1px solid #9d9b9b;
+    border-radius: 5px;
+}
+
+.form-ul {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.ul-box {
+    background: white;
+    padding: 15px;
+}
+
+.textarea {
+    flex-grow: 1;
+}
+
+.contract-template-form {
+    display: flex;
+}
+.btn-box {
+    margin-top: 20px;
+    text-align: center;
+}
